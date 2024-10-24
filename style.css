@@ -1,0 +1,92 @@
+.ul{
+    margin-left: 200px;
+    gap: 20px;
+}
+.color{
+    background-color: rgb(153, 75, 153);
+    
+}
+
+
+.gh {
+  background-image: url('laptop.jpeg');
+ 
+}
+.k{
+    width: 50%;
+    margin-left: 350px;
+}
+.img1{
+    width: 45%;
+    height: 120%;
+    margin-left: 120px;
+    
+}
+
+
+.body {
+    
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+    background-image: url(sky.jpeg);
+
+}
+.form-container {
+    display: flex;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+.left-section {
+    position: relative;
+    width: 300px; /* Fixed width for the image section */
+    overflow: hidden;
+}
+.left-section img {
+    width: 100%;
+    height: auto;
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    color: white;
+    background: rgba(0, 123, 255, 0.7); /* Semi-transparent background */
+    padding: 20px;
+}
+.right-section {
+    padding: 20px;
+    width: 300px; /* Set a fixed width for the form */
+    margin-left: 40px;
+}
+.f{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 320px;
+}
+.button{
+    
+    width: 100%;
+}
+.cl{
+    gap: 20px;
+width: 50%;
+}
+.t{
+    width: 50%;
+    padding: 10px;
+    margin-left: 470px;
+    margin-top: 20px;
+}
+.fr{
+    margin-bottom: 50px;
+}
